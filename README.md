@@ -1,22 +1,62 @@
+<div align="center">
+
 # Hi, I'm Kemalgeldi
 
-I'm a final-semester Diploma in Information Technology student based in Selangor, Malaysia, focusing on junior web and software development opportunities.
+**Full-stack · Robotics · App Development**
 
-My coursework includes PHP/MySQL web development and Java object-oriented programming. I'm preparing selected web, Java, Unity/C#, and ROS/Python projects for review and demonstration.
+IT student based in Malaysia, building practical software projects and looking for paid opportunities alongside my studies.
+
+**Open to junior roles, remote work, and freelance projects.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/kemalgeldigurbannyyazov/)
+[![Projects](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github)](https://github.com/kemalgeldi?tab=repositories)
+
+</div>
+
+---
 
 ## Featured project
 
-### [Rocket Navigation — Unity / C#](https://github.com/kemalgeldi/MyUnityGame)
+### HUMAC — Visual Navigation & Mapping
 
-A learning prototype built around rocket movement, obstacle collisions, audiovisual feedback, and transitions between two scenes. I'm improving its code, documentation, and demo readiness.
+A robotics project I worked on during my internship at HUMAC, exploring how visual perception, mapping, and motion control fit together on a mobile robot.
 
-## Current focus
+| Area | Prototype scope |
+| --- | --- |
+| Perception | YOLO-based visual target detection with RGB and depth inputs |
+| Motion control | Search, approach, and maneuver states with ROS velocity commands |
+| Mapping | TF coordinate transforms, SQLite target records, and visualization markers |
+| Monitoring | Camera overlays and mission-state feedback |
 
-- Building clear, usable web interfaces and strengthening JavaScript fundamentals.
-- Improving project structure, testing, and documentation.
-- Turning coursework and personal projects into reproducible portfolio examples.
-- Documenting a ROS/Python robotics prototype and its current engineering limitations.
+**Stack:** Python · ROS 1 · OpenCV · Ultralytics YOLO · SQLite
 
-I'm interested in junior developer roles, internships, and clearly scoped freelance projects, including remote opportunities.
+This is an experimental robotics prototype. My current focus is improving reproducibility, control logic, and documentation.
 
-[LinkedIn](https://www.linkedin.com/in/kemalgeldigurbannyyazov/)
+## Other project work
+
+| Project | Focus |
+| --- | --- |
+| [Rocket Navigation](https://github.com/kemalgeldi/MyUnityGame) | Unity/C# learning prototype with rocket controls, collisions, effects, and two scenes |
+| Web development coursework | HTML/CSS interfaces and PHP/MySQL coursework |
+| Java OOP coursework | Console ordering and parking simulations |
+
+## Technologies I've worked with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
+
+HTML · CSS · JavaScript fundamentals · ROS 1 · OpenCV · SQLite
+
+## What I'm looking for
+
+Paid junior or part-time development roles, remote opportunities, and clearly scoped freelance work in **full-stack development, robotics software, and app development**.
+
+I'm continuing my studies and strengthening my skills through practical projects. App development is an area I'm actively working toward.
+
+---
+
+[Connect on LinkedIn](https://www.linkedin.com/in/kemalgeldigurbannyyazov/) · [Browse my repositories](https://github.com/kemalgeldi?tab=repositories)
