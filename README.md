@@ -1,50 +1,22 @@
-# Hi! I’m Kemalgeldi!
+# Hi, I'm Kemalgeldi
 
-I am a Diploma in Information Technology student at Taylor’s University (Malaysia), currently expected to graduate in July 2026.
+I'm a final-semester Diploma in Information Technology student based in Selangor, Malaysia, focusing on junior web and software development opportunities.
 
-I’m passionate about game development and software engineering, with hands-on experience creating 3D Unity projects using C#, web applications using PHP & MySQL, and Java OOP systems for coursework and personal projects.
+My coursework includes PHP/MySQL web development and Java object-oriented programming. I'm preparing selected web, Java, Unity/C#, and ROS/Python projects for review and demonstration.
 
-My main interests include:
+## Featured project
 
-🎮 Designing and programming interactive games in Unity (C#)
+### [Rocket Navigation — Unity / C#](https://github.com/kemalgeldi/MyUnityGame)
 
-💻 Building dynamic websites using PHP, HTML, CSS, and MySQL
+A learning prototype built around rocket movement, obstacle collisions, audiovisual feedback, and transitions between two scenes. I'm improving its code, documentation, and demo readiness.
 
-🧠 Exploring new tools, frameworks, and improving my coding logic
+## Current focus
 
-I’m currently looking for an internship opportunity in game development or software development where I can apply my skills, learn from professionals, and contribute to exciting projects.
+- Building clear, usable web interfaces and strengthening JavaScript fundamentals.
+- Improving project structure, testing, and documentation.
+- Turning coursework and personal projects into reproducible portfolio examples.
+- Documenting a ROS/Python robotics prototype and its current engineering limitations.
 
-Outside of coding, I enjoy experimenting with new tech, improving my portfolio, and learning best practices for writing clean, efficient code.
+I'm interested in junior developer roles, internships, and clearly scoped freelance projects, including remote opportunities.
 
----
-
-### 🧰 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
----
-
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-### 🚀 Projects
-- [Rocket Delivery Game](https://github.com/malysh6663/MyUnityGame)
-- More projects coming soon!
-
----
-
-⭐ *Thanks for visiting my profile!*
+[LinkedIn](https://www.linkedin.com/in/kemalgeldigurbannyyazov/)
