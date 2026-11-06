@@ -28,12 +28,6 @@ Currently exploring opportunities in **software development, remote work, and fr
 
 **Technologies & Tools:** ROS 1, OpenCV, MySQL, Unity, Git, Linux
 
-### Featured Project
-
-**[Rocket Navigation](https://github.com/kemalgeldi/MyUnityGame)** — A 3D Unity game built with C#, featuring rocket movement, collision detection, and level transitions.
-
-*More projects coming soon.*
-
 ---
 
 <div align="center">
